@@ -1,0 +1,20 @@
+# Generated reports
+reports/
+reports-test/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# PowerShell history
+ConsoleHost_history.txt
+
+# Environment files
+.env
+.env.*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
